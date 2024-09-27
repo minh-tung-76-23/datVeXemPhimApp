@@ -1,0 +1,459 @@
+{
+  "qlrapphim": {
+    "comBo": [
+      null,
+      {
+        "anhCombo": "https://firebasestorage.googleapis.com/v0/b/qlappvexemphim.appspot.com/o/uploads%2F1727264177085.jpg?alt=media&token=501e7851-1287-4226-a6fa-f6b2148cafcf",
+        "giaCombo": 59000,
+        "idCombo": "1",
+        "moTa": "TIẾT KIỆM 56K!!! càng nhanh càng rẻ",
+        "tenCombo": "Combo See -tinh"
+      },
+      {
+        "anhCombo": "https://firebasestorage.googleapis.com/v0/b/qlappvexemphim.appspot.com/o/uploads%2F1727312699576.jpg?alt=media&token=d5d1af63-1e33-41e4-8aa2-01940ea183c8",
+        "giaCombo": 50000,
+        "idCombo": "2",
+        "moTa": "TIẾT KIỆM 10K!!!sở hữu ngay: 1 nước + 1 bắp",
+        "tenCombo": "Combo FA"
+      },
+      {
+        "anhCombo": "https://firebasestorage.googleapis.com/v0/b/qlappvexemphim.appspot.com/o/uploads%2F1727264617091.jpg?alt=media&token=f8328150-6ccd-4a15-8f1a-0c98d57a572a",
+        "giaCombo": 120000,
+        "idCombo": "3",
+        "moTa": "TIẾT KIỆM 30K!!! sở hữu ngay: 2 nươc + 2 bắp + combo cơm",
+        "tenCombo": "Combo Family"
+      },
+      {
+        "anhCombo": "https://firebasestorage.googleapis.com/v0/b/qlappvexemphim.appspot.com/o/uploads%2F1727264809190.jpg?alt=media&token=73ccee4d-a3a4-4757-9a7c-901e208b1afe",
+        "giaCombo": 99000,
+        "idCombo": "4",
+        "moTa": "TIẾT KIỆM 20K!! sở hữu ngay:  2 bỏng ngô caramel",
+        "tenCombo": "Combo See-Mê"
+      },
+      {
+        "anhCombo": "https://firebasestorage.googleapis.com/v0/b/qlappvexemphim.appspot.com/o/uploads%2F1727265036099.jpg?alt=media&token=88da8f11-99b7-49af-888c-89a6dca18354",
+        "giaCombo": 69000,
+        "idCombo": "5",
+        "moTa": "TIẾT KIÊM 20K!! sở hữu ngay: 1 bắp + 2 nước",
+        "tenCombo": "Combo Tình Yêu"
+      }
+    ],
+    "gheNgoi": {
+      "A01": {
+        "id": "A01",
+        "loaiGhe": "GT",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 1,
+        "vt_day": "A"
+      },
+      "A02": {
+        "id": "A02",
+        "loaiGhe": "GT",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 2,
+        "vt_day": "A"
+      },
+      "A03": {
+        "id": "A03",
+        "loaiGhe": "GT",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 3,
+        "vt_day": "A"
+      },
+      "A04": {
+        "id": "A04",
+        "loaiGhe": "GT",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 6,
+        "vt_day": "A"
+      },
+      "A05": {
+        "id": "A05",
+        "loaiGhe": "GT",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 5,
+        "vt_day": "A"
+      },
+      "A06": {
+        "id": "A06",
+        "loaiGhe": "GT",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 6,
+        "vt_day": "A"
+      },
+      "A07": {
+        "id": "A07",
+        "loaiGhe": "GT",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 7,
+        "vt_day": "A"
+      },
+      "A08": {
+        "id": "A08",
+        "loaiGhe": "GT",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 8,
+        "vt_day": "A"
+      },
+      "A09": {
+        "id": "A09",
+        "loaiGhe": "GT",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 9,
+        "vt_day": "A"
+      },
+      "A10": {
+        "id": "A10",
+        "loaiGhe": "GT",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 10,
+        "vt_day": "A"
+      },
+      "B01": {
+        "id": "B01",
+        "loaiGhe": "GT",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 1,
+        "vt_day": "B"
+      },
+      "B02": {
+        "id": "B02",
+        "loaiGhe": "GT",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 2,
+        "vt_day": "B"
+      },
+      "B03": {
+        "id": "B03",
+        "loaiGhe": "GT",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 3,
+        "vt_day": "B"
+      },
+      "B04": {
+        "id": "B04",
+        "loaiGhe": "GT",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 4,
+        "vt_day": "B"
+      },
+      "B05": {
+        "id": "B05",
+        "loaiGhe": "GT",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 5,
+        "vt_day": "B"
+      },
+      "B06": {
+        "id": "B06",
+        "loaiGhe": "GT",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 6,
+        "vt_day": "B"
+      },
+      "B07": {
+        "id": "B07",
+        "loaiGhe": "GT",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 7,
+        "vt_day": "B"
+      },
+      "B08": {
+        "id": "B08",
+        "loaiGhe": "GT",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 8,
+        "vt_day": "B"
+      },
+      "B09": {
+        "id": "B09",
+        "loaiGhe": "GT",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 9,
+        "vt_day": "B"
+      },
+      "B10": {
+        "id": "B10",
+        "loaiGhe": "GT",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 10,
+        "vt_day": "B"
+      },
+      "C01": {
+        "id": "C01",
+        "loaiGhe": "GV",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 1,
+        "vt_day": "C"
+      },
+      "C02": {
+        "id": "C02",
+        "loaiGhe": "GV",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 2,
+        "vt_day": "C"
+      },
+      "C03": {
+        "id": "C03",
+        "loaiGhe": "GV",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 3,
+        "vt_day": "C"
+      },
+      "C04": {
+        "id": "C04",
+        "loaiGhe": "GV",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 4,
+        "vt_day": "C"
+      },
+      "C05": {
+        "id": "C05",
+        "loaiGhe": "GV",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 5,
+        "vt_day": "C"
+      },
+      "C06": {
+        "id": "C06",
+        "loaiGhe": "GV",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 6,
+        "vt_day": "C"
+      },
+      "C07": {
+        "id": "C07",
+        "loaiGhe": "GV",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 7,
+        "vt_day": "C"
+      },
+      "C08": {
+        "id": "C08",
+        "loaiGhe": "GV",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 8,
+        "vt_day": "C"
+      },
+      "C09": {
+        "id": "C09",
+        "loaiGhe": "GV",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 9,
+        "vt_day": "C"
+      },
+      "C10": {
+        "id": "C10",
+        "loaiGhe": "GV",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 10,
+        "vt_day": "C"
+      },
+      "D01": {
+        "id": "D01",
+        "loaiGhe": "GV",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 1,
+        "vt_day": "D"
+      },
+      "D02": {
+        "id": "D02",
+        "loaiGhe": "GV",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 2,
+        "vt_day": "D"
+      },
+      "D03": {
+        "id": "D03",
+        "loaiGhe": "GV",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 3,
+        "vt_day": "D"
+      },
+      "D04": {
+        "id": "D04",
+        "loaiGhe": "GV",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 4,
+        "vt_day": "D"
+      },
+      "D05": {
+        "id": "D05",
+        "loaiGhe": "GV",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 5,
+        "vt_day": "D"
+      },
+      "D06": {
+        "id": "D06",
+        "loaiGhe": "GV",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 6,
+        "vt_day": "D"
+      },
+      "D07": {
+        "id": "D07",
+        "loaiGhe": "GV",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 7,
+        "vt_day": "D"
+      },
+      "D08": {
+        "id": "D08",
+        "loaiGhe": "GV",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 8,
+        "vt_day": "D"
+      },
+      "D09": {
+        "id": "D09",
+        "loaiGhe": "GV",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 9,
+        "vt_day": "D"
+      },
+      "D10": {
+        "id": "D10",
+        "loaiGhe": "GV",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 10,
+        "vt_day": "D"
+      },
+      "E01": {
+        "id": "E01",
+        "loaiGhe": "GD",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 1,
+        "vt_day": "E"
+      },
+      "E02": {
+        "id": "E02",
+        "loaiGhe": "GD",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 2,
+        "vt_day": "E"
+      },
+      "E03": {
+        "id": "E03",
+        "loaiGhe": "GD",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 3,
+        "vt_day": "E"
+      },
+      "E04": {
+        "id": "E04",
+        "loaiGhe": "GD",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 4,
+        "vt_day": "E"
+      },
+      "E05": {
+        "id": "E05",
+        "loaiGhe": "GD",
+        "phongChieu": 101,
+        "tinhTrang": "trống",
+        "vt_cot": 5,
+        "vt_day": "E"
+      }
+    },
+    "loaiGhe": {
+      "GD": {
+        "giaGhe": 120000,
+        "idKieuGhe": "GD",
+        "loai_ghe": "Ghế Đôi"
+      },
+      "GT": {
+        "giaGhe": 45000,
+        "idKieuGhe": "GT",
+        "loai_ghe": "Ghế Thường"
+      },
+      "GV": {
+        "giaGhe": 50000,
+        "idKieuGhe": "GV",
+        "loai_ghe": "Ghế VIP"
+      }
+    },
+    "phongChieu": {
+      "101": {
+        "idPhong": "101",
+        "soCot": 5,
+        "soDay": 10
+      },
+      "102": {
+        "idPhong": "102",
+        "soCot": 5,
+        "soDay": 10
+      }
+    },
+    "veXemPhim": {
+      "-O7iAUCyXEgo52NaOLCR": {
+        "cinemaAddress": "Tầng 3, TTTM Hồ Gươm Plaza, 110 Trần Phú, Phường Mỗ Lao, Quận Hà Đông, Hà Nội",
+        "cinemaName": "CGV Hồ Gươm Plaza",
+        "nameFilm": "Cô Gái Và Gã Khổng Lồ",
+        "selectedCombo": "\n- Combo FA - Giá: 50.000 ₫\nSố lượng: 1 \n",
+        "selectedSeats": "C03, C04, ",
+        "selectedTime": "21:30",
+        "timeDate": "Thứ năm, 26/09",
+        "totalPrice": "150.000",
+        "userEmail": "user@gmail.com",
+        "userId": "74YssMzhRSgqb3cWg0NuIe7fRG23"
+      },
+      "-O7iW7l4T4lDajbdUms8": {
+        "cinemaAddress": "Tầng 3, TTTM Hồ Gươm Plaza, 110 Trần Phú, Phường Mỗ Lao, Quận Hà Đông, Hà Nội",
+        "cinemaName": "CGV Hồ Gươm Plaza",
+        "nameFilm": "Trốn Thoát",
+        "selectedCombo": "",
+        "selectedSeats": "C08, ",
+        "selectedTime": "22:30",
+        "timeDate": "Thứ sáu, 27/09",
+        "totalPrice": "50.000",
+        "userEmail": "duyvu@gmail.com",
+        "userId": "BXtc5IEV6xMklZrYHHWKbZye29e2"
+      }
+    }
+  }
+}

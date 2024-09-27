@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lblack">#817F7F</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red_hov">#E22020</color>
+    <color name="lgray">#e7ebf4</color>
+    <color name="colorEmptySeat">#C0C0C0</color> <!-- Màu xám cho ghế trống -->
+    <color name="colorSoldSeat">#FF0000</color> <!-- Màu đỏ cho ghế đã bán -->
+    <color name="colorSeatting">#02599E</color> <!-- Màu đỏ cho ghế đã bán -->
+
+</resources>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Hot Cinema</string>
+    <string name="title_activity_lich_chieu_rap">ActivityLichChieuRap</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_home">ActivityHome</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Vé đã đặt</string>
+
+    <string name="menu_account">Thông tin tài khoản</string>
+    <string name="menu_listFilm">Phim đang chiếu</string>
+    <string name="menu_rap">Lịch chiếu theo rạp</string>
+    <string name="menu_logout">Đăng xuất</string>
+    <string name="title_activity_lich_chieu">ActivityLichChieu</string>
+
+
+    <string-array name="location_array">
+        <item>Hà Nội</item>
+        <item>Hồ Chí Minh</item>
+        <item>Đà Nẵng</item>
+        <item>Thái Bình</item>
+        <item>Hải Phòng</item>
+    </string-array>
+
+    <string-array name="role_array">
+        <item>Admin</item>
+        <item>User</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

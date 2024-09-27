@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="8dp"
+    android:padding="0dp"
+    android:background="@color/lgray"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:id="@+id/tvphongChieu"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Phòng"
+        android:textStyle="italic"
+        android:paddingLeft="5dp"
+        android:textSize="12sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/idGhe"
+        app:layout_constraintEnd_toStartOf="@id/tinhTrangGhe"
+        app:layout_constraintHorizontal_weight="2" />
+
+    <TextView
+        android:id="@+id/tvloaiGhe"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Loại ghế"
+        android:textSize="12sp"
+        android:paddingRight="15dp"
+        android:gravity="end"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toStartOf="@id/tinhTrangGhe"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintHorizontal_weight="2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/idGhe" />
+
+    <TextView
+        android:id="@+id/idGhe"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:paddingLeft="3dp"
+        android:text="Rạp"
+        android:textColor="@color/colorSeatting"
+        android:textSize="14dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/tinhTrangGhe"
+        app:layout_constraintHorizontal_weight="2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tinhTrangGhe"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Tình trạng "
+        android:textColor="@color/colorSoldSeat"
+        android:textStyle="bold"
+        android:paddingLeft="3dp"
+        app:layout_constraintStart_toEndOf="@id/idGhe"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_weight="1" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
